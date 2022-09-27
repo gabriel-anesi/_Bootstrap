@@ -1,0 +1,33 @@
+body {
+    background-color: #CCC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+
+
+ .area {
+    background-color: rgba(255, 255, 255, 0.4);
+    width: 100%;
+    max-width: 310px; 
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 5px 2px 10px;
+    padding: 20px 50px;
+} 
+
+.logo {
+    width: 100%;
+    height: auto;
+}
+
+.mb-3.form-check, .gray {
+    display: flex;
+    justify-content: center;
+    
+}
+.gray {
+    color: #333;
+}
