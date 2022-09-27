@@ -1,0 +1,37 @@
+header {
+    background-color: #383e4c;
+}
+
+.conquer {
+    background-image: url('../images/bg-1.jpg');
+    background-position: center bottom;
+    background-size: cover;
+    height: 70vh;
+}
+.conquer h1 {
+    text-shadow: 2px 2px 1px #000;
+}
+
+
+.services {
+    background-color: #AAA;
+    background-position: center;
+    background-size: cover;
+    height: 40vh;
+}
+.services h2 {
+    text-shadow: 2px 2px 1px #000;
+}
+
+.form {
+    background-color: #383e4c;
+    background-position: center bottom;
+    background-size: cover;    
+}
+.form h2 {
+    text-shadow: 2px 2px 1px #000;
+}
+
+form textarea {
+    resize: none;    
+}
