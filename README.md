@@ -28,6 +28,7 @@ Projeto 04 - Quiz
 <hr>
 Projeto 05 - Buscador de GIF
 <hr>
+<p>Nessa atividade, foi pedido que a pesquisa fosse atualizando conforme se digita, SEM utilizar qualquer botão ou outro comando para iniciá-la.</p>
 <a href="https://gabriel-anesi.github.io/_Bootstrap/5%20-%20Buscador%20de%20GIF">Acessar página</a>
 <br></br>
 <img src="https://github.com/gabriel-anesi/_Bootstrap/blob/master/5%20-%20Buscador%20de%20GIF/images/imagem%20site.png" height="500px">
