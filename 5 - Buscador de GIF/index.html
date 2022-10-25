@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="../5 - Buscador de GIF/assets/css/style.css">
+    <title>Buscador de GIF</title>
+</head>
+<body>
+    <header>
+        <div class="navbar navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href="#">Gifs</a>                
+            </div>
+        </div>
+    </header>
+    <h1 class="text-center">Bem-vindo ao nosso buscador de GIFs</h1>
+
+    <section class="input--field d-flex justify-content-center align-items-center">   
+        <div class="input-group input--container">
+            <h3 class="text-center">Digite sua pesquisa:</h3>
+            <input class="form-control rounded" type="text" placeholder="Buscar GIF" id="input" autocomplete="off" onkeyup="searchGif()"/>
+        </div>
+    </section>
+
+    <main>
+        <section class="mt-5">
+            <div class="container">
+                <div class="row gif--field"></div>
+            </div>
+        </section>
+    </main>
+
+    <div class="container">
+        <hr/>
+    </div>
+    <footer class="text-center m-3"><a href="https://tenor.com"><img src="../5 - Buscador de GIF/images/PB_tenor_logo_blue_vertical.png" height="50px" alt="tenor logo"></a>
+    </footer>
+    <script type="text/javascript" src="../5 - Buscador de GIF/assets/js/script.js"></script>
+</body>
+</html>

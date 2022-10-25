@@ -1,0 +1,18 @@
+.input--field {
+    height: 15vh;
+}
+
+.input--container {
+    max-width: 400px;
+    width: 100%;
+}
+
+.input-group.input--container {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.input-group>.form-control {
+    width: 100%;
+}
